@@ -1,0 +1,81 @@
+ .swap {}
+
+ .css-b85zok {
+     color: white !important;
+ }
+
+ .BrandedFooter__Wrapper-sc-kpe23m-1 {
+     visibility: hidden !important;
+ }
+
+ /* button[data-testid="connect-wallet"] div{
+    display: none;
+} */
+ /* button[data-testid="connect-wallet"]::after {
+    content: "Swap";
+    font-size: 20px;
+    font-weight: 600;
+}  */
+
+ .reward {
+     display: block;
+     /* border-radius: var(--radii-sm); */
+     width: 100%;
+     background: linear-gradient(90deg, rgba(36, 92, 203, 0) 0%, rgba(36, 92, 203, 0.01) 6.67%, rgba(36, 92, 203, 0.04) 13.33%, rgba(36, 92, 203, 0.08) 20%, rgba(36, 92, 203, 0.15) 26.67%, rgba(36, 92, 203, 0.23) 33.33%, rgba(36, 92, 203, 0.33) 40%, rgba(36, 92, 203, 0.44) 46.67%, rgba(36, 92, 203, 0.56) 53.33%, rgba(36, 92, 203, 0.67) 60%, rgba(36, 92, 203, 0.77) 66.67%, rgba(36, 92, 203, 0.85) 73.33%, rgba(36, 92, 203, 0.92) 80%, rgba(36, 92, 203, 0.96) 86.67%, rgba(36, 92, 203, 0.99) 93.33%, rgb(36, 92, 203) 100%), url("/public/scroll-banner-background.png") 0px -164.384px / 100% 363.789% no-repeat lightgray;
+     /* padding: var(--space-15) var(--space-20); */
+ }
+
+ .c-fabyaU {
+
+     background-color: rgb(0, 170, 170);
+     clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     position: absolute;
+
+
+     width: 26px;
+     height: 28px;
+     position: absolute;
+     right: -5px;
+     bottom: -8px;
+ }
+
+
+ .robo-small {
+
+     background-color: rgb(0, 170, 170);
+     clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     position: absolute;
+
+
+     width: 18px;
+     height: 20px;
+     position: absolute;
+     right: -5px;
+     bottom: -4px;
+ }
+
+ .campaign {
+
+     width: 100%;
+     background-color: black;
+     position: relative;
+     display: flex;
+     background-image: url("/public/lines.svg");
+     background-position: left center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     justify-content: space-between;
+
+     overflow: hidden;
+
+     background-size: contain;
+     /* max-height: 221px; */
+
+
+ }
