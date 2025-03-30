@@ -17,7 +17,7 @@ const Container: React.FC<PropsWithChildren> = ({ children }) => {
     return (<>
         {/* <Navbar /> */}
         {children}
-        <div className="bg-[#070917]  w-full md:fixed hidden bottom-0 rounded-t-2xl z-10">
+        <div className="bg-[#070917]  w-full md:hidden fixed bottom-0 rounded-t-2xl z-10">
             <div className="grid h-20 grid-cols-5 items-center text-center justify-center text-zinc-400">
 
 
